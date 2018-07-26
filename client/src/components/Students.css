@@ -1,0 +1,18 @@
+
+ul{
+    list-style:none;
+    padding: 0;
+    width:30%;
+    margin: auto;
+}
+li{
+    font-size: 1.3rem;
+    line-height: 2rem;
+    border-bottom: 1px dotted #777;
+}
+.students{
+    width:50%;
+    margin: 0 auto;
+    border: 2px solid green;
+
+}
